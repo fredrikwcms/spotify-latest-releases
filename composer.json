@@ -1,0 +1,12 @@
+{
+    "name": "wcms19/spspotify-new-releases",
+    "authors": [
+        {
+            "name": "Fredrik Larsson",
+            "email": "fredrik.larsson@medieinstitutet.se"
+        }
+    ],
+    "require": {
+        "jwilsson/spotify-web-api-php": "^3.4"
+    }
+}
